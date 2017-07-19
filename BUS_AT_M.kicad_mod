@@ -1,10 +1,10 @@
-(module BUS_AT
+(module BUS_AT_M
   (layer F.Cu)
   (tedit 587FD6E2)
-  (descr "Connecteur Bus AT ISA 16 bits")
-  (tags "CONN BUS ISA")
+  (descr "Connecteur Bus AT ISA 16 bits male")
+  (tags "CONN BUS ISA MALE")
   (fp_text reference REF** (at -60.96 -6.99) (layer F.SilkS) (effects (font (size 1 1) (thickness 0.15))))
-  (fp_text value BUS_AT (at -81.91 -6.99) (layer F.Fab) (effects (font (size 1 1) (thickness 0.15))))
+  (fp_text value BUS_AT_M (at -81.91 -6.99) (layer F.Fab) (effects (font (size 1 1) (thickness 0.15))))
   (fp_line (start 2.60 3.85) (end 2.60 -5.10) (layer F.SilkS) (width 0.12))
   (fp_line (start 2.60 -5.10) (end 3.00 -5.10) (layer F.SilkS) (width 0.12))
   (fp_line (start -83.75 3.85) (end -83.75 -3.75) (layer F.SilkS) (width 0.12))
