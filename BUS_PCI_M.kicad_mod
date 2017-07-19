@@ -1,11 +1,11 @@
-(module BUS_PCI
+(module BUS_PCI_M
   (layer F.Cu)
   (tedit 587FD751)
-  (descr "Connecteur Bus PCI")
-  (tags "PCI CONN")
+  (descr "Connecteur Bus PCI male")
+  (tags "PCI CONN MALE")
   (attr smd)
   (fp_text reference REF** (at -11.81 -5.78) (layer F.SilkS) (effects (font (size 1 1) (thickness 0.15))))
-  (fp_text value BUS_PCI (at 18.29 -5.78) (layer F.Fab) (effects (font (size 1 1) (thickness 0.15))))
+  (fp_text value BUS_PCI_M (at 18.29 -5.78) (layer F.Fab) (effects (font (size 1 1) (thickness 0.15))))
   (fp_line (start 39.68 3.37) (end 39.68 -4.88) (layer F.SilkS) (width 0.12))
   (fp_line (start 39.68 -4.88) (end 39.98 -4.88) (layer F.SilkS) (width 0.12))
   (fp_line (start 23.28 3.37) (end 23.28 -4.83) (layer F.SilkS) (width 0.12))
